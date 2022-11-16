@@ -6,4 +6,4 @@ In this script I make use of libraries like selenium to solve in a simple way th
 
 
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://raw.githubusercontent.com/NFT404/Re_captcha_v2-Solver/main/Animation.gif)
