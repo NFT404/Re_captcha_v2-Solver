@@ -1,1 +1,1 @@
-web: python bot.py
+web: python resolver_v2.py
